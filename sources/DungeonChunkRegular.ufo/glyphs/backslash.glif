@@ -8,17 +8,13 @@
       <point x="128" y="0" type="line"/>
       <point x="128" y="192" type="line"/>
       <point x="64" y="192" type="line"/>
-      <point x="64" y="234.667"/>
-      <point x="64" y="277.333"/>
-      <point x="64" y="320" type="curve"/>
+      <point x="64" y="320" type="line"/>
       <point x="0" y="320" type="line"/>
       <point x="0" y="512" type="line"/>
       <point x="192" y="512" type="line"/>
       <point x="192" y="320" type="line"/>
       <point x="256" y="320" type="line"/>
-      <point x="256" y="277.333"/>
-      <point x="256" y="234.667"/>
-      <point x="256" y="192" type="curve"/>
+      <point x="256" y="192" type="line"/>
       <point x="320" y="192" type="line"/>
     </contour>
   </outline>

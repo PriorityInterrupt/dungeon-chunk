@@ -15,15 +15,11 @@
     </contour>
     <contour>
       <point x="256" y="320" type="line"/>
-      <point x="213.333" y="320"/>
-      <point x="170.667" y="320"/>
-      <point x="128" y="320" type="curve"/>
+      <point x="128" y="320" type="line"/>
       <point x="128" y="384" type="line"/>
       <point x="64" y="384" type="line"/>
       <point x="64" y="320" type="line"/>
-      <point x="21.3333" y="320"/>
-      <point x="-21.3333" y="320"/>
-      <point x="-64" y="320" type="curve"/>
+      <point x="-64" y="320" type="line"/>
       <point x="-64" y="384" type="line"/>
       <point x="0" y="384" type="line"/>
       <point x="0" y="448" type="line"/>

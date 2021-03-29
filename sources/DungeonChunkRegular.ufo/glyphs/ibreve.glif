@@ -18,21 +18,13 @@
       <point x="0" y="320" type="line"/>
       <point x="0" y="384" type="line"/>
       <point x="-64" y="384" type="line"/>
-      <point x="-64" y="426.667"/>
-      <point x="-64" y="469.333"/>
-      <point x="-64" y="512" type="curve"/>
-      <point x="-21.3333" y="512"/>
-      <point x="21.3333" y="512"/>
-      <point x="64" y="512" type="curve"/>
+      <point x="-64" y="512" type="line"/>
+      <point x="64" y="512" type="line"/>
       <point x="64" y="448" type="line"/>
       <point x="128" y="448" type="line"/>
       <point x="128" y="512" type="line"/>
-      <point x="170.667" y="512"/>
-      <point x="213.333" y="512"/>
-      <point x="256" y="512" type="curve"/>
-      <point x="256" y="469.333"/>
-      <point x="256" y="426.667"/>
-      <point x="256" y="384" type="curve"/>
+      <point x="256" y="512" type="line"/>
+      <point x="256" y="384" type="line"/>
       <point x="192" y="384" type="line"/>
     </contour>
   </outline>
