@@ -103,9 +103,9 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>DungeonChunkRegular</string>
+    <string>DungeonChunk</string>
     <key>postscriptFullName</key>
-    <string>Dungeon Chunk Regular</string>
+    <string>Dungeon Chunk</string>
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
