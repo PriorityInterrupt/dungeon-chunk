@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="320"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="128" y="-128" type="line"/>
+      <point x="170.667" y="-128"/>
+      <point x="213.333" y="-128"/>
+      <point x="256" y="-128" type="curve"/>
+      <point x="256" y="-192" type="line"/>
+      <point x="64" y="-192" type="line"/>
+      <point x="64" y="-149.333"/>
+      <point x="64" y="-106.667"/>
+      <point x="64" y="-64" type="curve"/>
+      <point x="128" y="-64" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="-64" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="85.3333" y="-0"/>
+      <point x="42.6667" y="0"/>
+      <point x="0" y="0" type="curve"/>
+      <point x="-0" y="170.667"/>
+      <point x="0" y="341.333"/>
+      <point x="0" y="512" type="curve"/>
+      <point x="192" y="512" type="line"/>
+      <point x="192" y="-64" type="line"/>
+    </contour>
+  </outline>
+</glyph>

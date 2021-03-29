@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="320"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="64" y="64" type="line"/>
+      <point x="0" y="64" type="line"/>
+      <point x="0" y="256" type="line"/>
+      <point x="192" y="256" type="line"/>
+      <point x="192" y="64" type="line"/>
+      <point x="256" y="64" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="320" type="curve"/>
+      <point x="213.333" y="320"/>
+      <point x="170.667" y="320"/>
+      <point x="128" y="320" type="curve"/>
+      <point x="128" y="362.667"/>
+      <point x="128" y="405.333"/>
+      <point x="128" y="448" type="curve"/>
+      <point x="170.667" y="448"/>
+      <point x="213.333" y="448"/>
+      <point x="256" y="448" type="curve"/>
+      <point x="256" y="405.333"/>
+      <point x="256" y="362.667"/>
+    </contour>
+    <contour>
+      <point x="64" y="320" type="curve"/>
+      <point x="21.3333" y="320"/>
+      <point x="-21.3333" y="320"/>
+      <point x="-64" y="320" type="curve"/>
+      <point x="-64" y="362.667"/>
+      <point x="-64" y="405.333"/>
+      <point x="-64" y="448" type="curve"/>
+      <point x="-21.3333" y="448"/>
+      <point x="21.3333" y="448"/>
+      <point x="64" y="448" type="curve"/>
+      <point x="64" y="405.333"/>
+      <point x="64" y="362.667"/>
+    </contour>
+  </outline>
+</glyph>

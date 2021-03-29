@@ -1,0 +1,145 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinlookup0 {
+  lookupflag 0;
+    pos \ampersand \quotesingle -64;
+    pos \period \Y -64;
+    pos \period \V -64;
+    pos \period \T -64;
+    pos \A \Y -64;
+    pos \A \T -64;
+    pos \B \Y -64;
+    pos \B \T -64;
+    pos \F \comma -128;
+    pos \F \period -192;
+    pos \L \Y -64;
+    pos \L \T -64;
+    pos \P \period -64;
+    pos \P \Z -64;
+    pos \Q \Y -64;
+    pos \Q \V -64;
+    pos \Q \T -64;
+    pos \T \comma -128;
+    pos \T \period -128;
+    pos \T \Z -64;
+    pos \T \J -64;
+    pos \T \A -64;
+    pos \V \comma -64;
+    pos \V \period -64;
+    pos \V \Z -64;
+    pos \V \J -64;
+    pos \Y \comma -128;
+    pos \Y \period -128;
+    pos \Y \Z -64;
+    pos \Y \J -64;
+    pos \Y \A -64;
+    pos \f \comma -64;
+    pos \f \period -128;
+    pos \f \J -64;
+    pos \f \A -64;
+    pos \f \z -64;
+    pos \f \t -64;
+    pos \f \s -64;
+    pos \f \q -64;
+    pos \f \o -64;
+    pos \f \j -128;
+    pos \f \g -64;
+    pos \f \f -64;
+    pos \f \e -64;
+    pos \f \d -64;
+    pos \f \c -64;
+    pos \f \a -64;
+    pos \i \Y -64;
+    pos \i \V -64;
+    pos \i \T -64;
+    pos \i \v -64;
+    pos \i \q -64;
+    pos \i \g -64;
+    pos \i \f -64;
+    pos \i \t -64;
+    pos \l \Y -64;
+    pos \l \V -64;
+    pos \l \T -64;
+    pos \l \v -64;
+    pos \l \q -64;
+    pos \l \f -64;
+    pos \l \g -64;
+    pos \l \t -64;
+    pos \p \period -64;
+    pos \p \z -64;
+    pos \p \j -64;
+    pos \r \comma -64;
+    pos \r \period -128;
+    pos \r \Z -64;
+    pos \r \Y -64;
+    pos \r \T -64;
+    pos \r \J -64;
+    pos \r \z -64;
+    pos \r \j -128;
+    pos \r \a -64;
+    pos \s \t -64;
+    pos \t \Y -64;
+    pos \t \T -64;
+    pos \v \period -64;
+    pos \v \z -64;
+    pos \v \j -64;
+} kernHorizontalKerninginLatinlookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+} kern;
+
+@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
+	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
+	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
+	\nine \colon \semicolon \equal \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P 
+	\Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum 
+	\underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z 
+	\braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent \sterling 
+	\currency \yen \brokenbar \section \dieresis \copyright \ordfeminine 
+	\guillemotleft \logicalnot \registered \macron \degree \plusminus \uni00B2 
+	\uni00B3 \acute \uni00B5 \paragraph \periodcentered \cedilla \uni00B9 
+	\ordmasculine \guillemotright \onequarter \onehalf \threequarters 
+	\questiondown \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE 
+	\Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex 
+	\Idieresis \Eth \Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odieresis 
+	\multiply \Oslash \Ugrave \Uacute \Ucircumflex \Udieresis \Yacute \Thorn 
+	\germandbls \agrave \aacute \acircumflex \atilde \adieresis \aring \ae \ccedilla 
+	\egrave \eacute \ecircumflex \edieresis \igrave \iacute \icircumflex \idieresis 
+	\eth \ntilde \ograve \oacute \ocircumflex \otilde \odieresis \divide \oslash 
+	\ugrave \uacute \ucircumflex \udieresis \yacute \thorn \ydieresis \Amacron 
+	\amacron \Abreve \abreve \Aogonek \aogonek \Cacute \cacute \Ccircumflex 
+	\ccircumflex \Cdotaccent \cdotaccent \Ccaron \ccaron \Dcaron \dcaron \Dcroat 
+	\dcroat \Emacron \emacron \Ebreve \ebreve \Edotaccent \edotaccent \Eogonek 
+	\eogonek \Ecaron \ecaron \Gcircumflex \gcircumflex \Gbreve \gbreve \Gdotaccent 
+	\gdotaccent \Gcommaaccent \gcommaaccent \Hcircumflex \hcircumflex \Hbar \hbar 
+	\Itilde \itilde \Imacron \imacron \Ibreve \ibreve \Iogonek \iogonek \Idotaccent 
+	\dotlessi \IJ \ij \Jcircumflex \jcircumflex \Kcommaaccent \kcommaaccent 
+	\kgreenlandic \Lacute \lacute \Lcommaaccent \lcommaaccent \Lcaron \lcaron \Ldot 
+	\ldot \Lslash \lslash \Nacute \nacute \Ncommaaccent \ncommaaccent \Ncaron 
+	\ncaron \napostrophe \Eng \eng \Omacron \omacron \Obreve \obreve \Ohungarumlaut 
+	\ohungarumlaut \OE \oe \Racute \racute \Rcommaaccent \rcommaaccent \Rcaron 
+	\rcaron \Sacute \sacute \Scircumflex \scircumflex \Scedilla \scedilla \Scaron 
+	\scaron \Tcommaaccent \tcommaaccent \Tcaron \tcaron \Tbar \tbar \Utilde \utilde 
+	\Umacron \umacron \Ubreve \ubreve \Uring \uring \Uhungarumlaut \uhungarumlaut 
+	\Uogonek \uogonek \Wcircumflex \wcircumflex \Ycircumflex \ycircumflex 
+	\Ydieresis \Zacute \zacute \Zdotaccent \zdotaccent \Zcaron \zcaron \Euro 
+	\uni3000 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
