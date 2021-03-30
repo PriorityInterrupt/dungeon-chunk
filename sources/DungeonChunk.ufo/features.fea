@@ -100,6 +100,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinlookup0;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
 	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
