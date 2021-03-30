@@ -2,7 +2,7 @@
 
 # Dungeon Chunk
 
-Dungeon Chunk is a set of OpenType pixel art fonts designed for pixel perfect UI.
+Dungeon Chunk is a set of OpenType chunky pixel art fonts designed for pixel perfect UI.
 
 ## Getting involved
 
