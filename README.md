@@ -1,6 +1,6 @@
-[![License: OFL](https://img.shields.io/badge/License-OFL-lightgrey.svg)](https://opensource.org/licenses/OFL-1.1) [![Discord](https://img.shields.io/discord/266998536632139776.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/gyhmH5f)
+# [![Dungeon Chunk](.media/logo.svg?sanitize=true)](.)
 
-# Dungeon Chunk
+[![License: OFL](https://img.shields.io/badge/License-OFL-lightgrey.svg)](https://opensource.org/licenses/OFL-1.1) [![Discord](https://img.shields.io/discord/266998536632139776.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/gyhmH5f)
 
 Dungeon Chunk is a set of OpenType chunky pixel art fonts designed for pixel perfect UI.
 
